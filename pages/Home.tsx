@@ -1,4 +1,4 @@
-import React from 'react';
+
 import Me from '../public/Me4.jpg'
 
 const Home = () => {

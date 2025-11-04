@@ -1,4 +1,4 @@
-import React from 'react'
+
 import PostCards from '../components/PostCards'
 import img1 from '../public/img1.png'
 import img2 from '../public/img2.jpeg'
